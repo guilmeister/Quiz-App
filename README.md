@@ -90,17 +90,21 @@ git clone https://github.com/guilmeister/Feedback-App
 ## Contributors
 
 #### Edward Guillermo
-To Contact via Email: ebg.edwardbguillermo@yahoo.com 
-Link to [GitHub](https://github.com/guilmeister)
+• To Contact via Email: ebg.edwardbguillermo@yahoo.com 
+
+• Link to [GitHub](https://github.com/guilmeister)
 #### Kangseok Lee
-To Contact via Email: kangseok0102@gmail.com
-Link to [GitHub](https://github.com/kangseok0102)
+• To Contact via Email: kangseok0102@gmail.com
+
+• Link to [GitHub](https://github.com/kangseok0102)
 #### Blaire Crits-Christoph
-To Contact via Email: blaire.critschristoph@revature.net
-[GitHub](https://github.com/bcrits)
+• To Contact via Email: blaire.critschristoph@revature.net
+
+• Link to [GitHub](https://github.com/bcrits)
 #### Brian Bachow
-To Contact via Email: bmbachow@gmail.com
-Link to [GitHub](https://github.com/bmbachow)
+• To Contact via Email: bmbachow@gmail.com
+
+• Link to [GitHub](https://github.com/bmbachow)
 
 ## License
-This project uses the following [License]()
+This project uses the following [License](https://github.com/guilmeister/Quiz-App/blob/main/LICENSE)

@@ -151,7 +151,7 @@
 		5CC453582652C59E0036FA6E /* QuizPageTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizPageTableViewCell.swift; sourceTree = "<group>"; };
 		5CC4535F2652CECA0036FA6E /* UserFeedbackTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFeedbackTableViewController.swift; sourceTree = "<group>"; };
 		5CC453662652CEF10036FA6E /* UserFeedbackTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFeedbackTableViewCell.swift; sourceTree = "<group>"; };
-		5CC8A1BA265482CF0078DAB9 /* Scores+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "Scores+CoreDataProperties.swift"; path = "../Scores+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		5CC8A1BA265482CF0078DAB9 /* Scores+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Scores+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		5EFCB98A227B12095A3D5C45 /* Pods-QuizApp-QuizAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuizApp-QuizAppUITests.release.xcconfig"; path = "Target Support Files/Pods-QuizApp-QuizAppUITests/Pods-QuizApp-QuizAppUITests.release.xcconfig"; sourceTree = "<group>"; };
 		5F953A8C2650BAD300F97977 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		5F953A8E2650C33000F97977 /* Users+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Users+CoreDataProperties.swift"; sourceTree = "<group>"; };

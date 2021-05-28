@@ -103,7 +103,7 @@ class LogInViewController: UIViewController {
         else{
             let isValidated = authenticate(username: UsernameTxt.text, password: PasswordTxt.text)
             if (isValidated){
-                           LogInViewController.username = UsernameTxt.text!
+                LogInViewController.username = UsernameTxt.text!
                 present(homeVC, animated: true)
                 homeVC.modalPresentationStyle = .fullScreen
             } else {

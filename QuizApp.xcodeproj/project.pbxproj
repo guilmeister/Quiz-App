@@ -81,9 +81,6 @@
 		84F62C7D264DE17B001B8A84 /* RankTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F62C7C264DE17B001B8A84 /* RankTableViewCell.swift */; };
 		ABDA3E4C9AE32CD033C688EE /* Pods_QuizApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 400E120AD4A4A56C468329F1 /* Pods_QuizApp.framework */; };
 		DB27B090264C2E290062934C /* DatabaseHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB27B08F264C2E290062934C /* DatabaseHelper.swift */; };
-		DB27B095264C32070062934C /* TestingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB27B094264C32070062934C /* TestingViewController.swift */; };
-		DB27B09A264C4E410062934C /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB27B099264C4E410062934C /* QuizViewController.swift */; };
-		DB27B18C264EC2940062934C /* SetQuizPropertiesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB27B18B264EC2940062934C /* SetQuizPropertiesViewController.swift */; };
 		DB27B1BA264ED3E30062934C /* Users+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB27B1B0264ED3E30062934C /* Users+CoreDataClass.swift */; };
 		DB27B1BB264ED3E30062934C /* Categories+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB27B1B1264ED3E30062934C /* Categories+CoreDataClass.swift */; };
 		DB27B1BC264ED3E30062934C /* Choices+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB27B1B2264ED3E30062934C /* Choices+CoreDataProperties.swift */; };
@@ -161,9 +158,6 @@
 		82717AC5AAE0294748EC4E52 /* Pods_QuizApp_QuizAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QuizApp_QuizAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F62C7C264DE17B001B8A84 /* RankTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankTableViewCell.swift; sourceTree = "<group>"; };
 		DB27B08F264C2E290062934C /* DatabaseHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseHelper.swift; sourceTree = "<group>"; };
-		DB27B094264C32070062934C /* TestingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingViewController.swift; sourceTree = "<group>"; };
-		DB27B099264C4E410062934C /* QuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
-		DB27B18B264EC2940062934C /* SetQuizPropertiesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetQuizPropertiesViewController.swift; sourceTree = "<group>"; };
 		DB27B1B0264ED3E30062934C /* Users+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Users+CoreDataClass.swift"; sourceTree = "<group>"; };
 		DB27B1B1264ED3E30062934C /* Categories+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Categories+CoreDataClass.swift"; sourceTree = "<group>"; };
 		DB27B1B2264ED3E30062934C /* Choices+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Choices+CoreDataProperties.swift"; sourceTree = "<group>"; };
@@ -173,9 +167,6 @@
 		DB27B1B7264ED3E30062934C /* Questions+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Questions+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		DB27B1B9264ED3E30062934C /* Choices+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Choices+CoreDataClass.swift"; sourceTree = "<group>"; };
 		DB3D97C02653411A002D490A /* TestCreatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCreatorViewController.swift; sourceTree = "<group>"; };
-
-		DB82F6E7265368EA0029D721 /* Scores+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "Scores+CoreDataProperties.swift"; path = "/Users/admin/Documents/Project2-Revature/Models/Scores+CoreDataProperties.swift"; sourceTree = "<absolute>"; };
-
 		FBF4FCEDCB01F065E21B0853 /* Pods_QuizAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QuizAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -286,9 +277,6 @@
 				5C5716D0264B994A0067EA6F /* ForgotPWViewController.swift */,
 				5C571704264B9EDA0067EA6F /* FeedbackViewController.swift */,
 				84F62C7C264DE17B001B8A84 /* RankTableViewCell.swift */,
-				DB27B094264C32070062934C /* TestingViewController.swift */,
-				DB27B099264C4E410062934C /* QuizViewController.swift */,
-				DB27B18B264EC2940062934C /* SetQuizPropertiesViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -593,11 +581,9 @@
 			files = (
 				5F953A8F2650C33000F97977 /* Users+CoreDataProperties.swift in Sources */,
 				DB3D97C12653411A002D490A /* TestCreatorViewController.swift in Sources */,
-				DB27B18C264EC2940062934C /* SetQuizPropertiesViewController.swift in Sources */,
 				5C5716C0264B99130067EA6F /* SignUpViewController.swift in Sources */,
 				DB27B1BC264ED3E30062934C /* Choices+CoreDataProperties.swift in Sources */,
 				5C5715CC264AD65B0067EA6F /* ViewController.swift in Sources */,
-				DB27B09A264C4E410062934C /* QuizViewController.swift in Sources */,
 				5C571705264B9EDA0067EA6F /* FeedbackViewController.swift in Sources */,
 				84F62C7D264DE17B001B8A84 /* RankTableViewCell.swift in Sources */,
 				5CC45259264D91680036FA6E /* (null) in Sources */,
@@ -618,7 +604,6 @@
 				5C5715D2264AD65B0067EA6F /* QuizApp.xcdatamodeld in Sources */,
 				5CC453592652C59E0036FA6E /* QuizPageTableViewCell.swift in Sources */,
 				5CC4534B2652C5610036FA6E /* RankingTableViewCell.swift in Sources */,
-				DB27B095264C32070062934C /* TestingViewController.swift in Sources */,
 				DB27B090264C2E290062934C /* DatabaseHelper.swift in Sources */,
 				DB27B1BD264ED3E30062934C /* Categories+CoreDataProperties.swift in Sources */,
 				DB27B1C0264ED3E30062934C /* Questions+CoreDataClass.swift in Sources */,

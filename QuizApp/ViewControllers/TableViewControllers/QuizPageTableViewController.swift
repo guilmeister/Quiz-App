@@ -60,10 +60,10 @@ class QuizPageTableViewController: UIViewController, UITableViewDelegate, UITabl
             }
             else {
                 checkAnswer(answer: answer, question: question)
-                print("Username: \(TestingViewController.username)")
+                print("Username: \(LogInViewController.username)")
                 print("Current Points: \(currentPoints)")
                 print("Total Points: \(totalCountOfQuestions)")
-                DatabaseHelper.inst.saveQuizScore(username: TestingViewController.username, countOfCorrectAnswers: currentPoints, countOfQuestions: totalCountOfQuestions)
+                DatabaseHelper.inst.saveQuizScore(username: LogInViewController.username, countOfCorrectAnswers: currentPoints, countOfQuestions: totalCountOfQuestions)
                 let sBoard : UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
                 let menuPage = sBoard.instantiateViewController(identifier: "QuizMainPage") as! MenuViewController
                 present(menuPage, animated: true, completion: nil)
